@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\systemdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:systemdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\genericdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:genericdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\mystringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:mystringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\filefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:filefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\myfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:myfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\cfilehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:cfilehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\binaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:binaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|c:\\users\\administrator\\source\\repos\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CAD9CB-A517-4B9F-A60C-0105FF13AF9E}|FileHandling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemDelegates.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\SystemDelegates.cs",
+              "RelativeDocumentMoniker": "SystemDelegates.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\SystemDelegates.cs*",
+              "RelativeToolTip": "SystemDelegates.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAewEAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:54:59.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiCastDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\MultiCastDelegate.cs",
+              "RelativeDocumentMoniker": "MultiCastDelegate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\MultiCastDelegate.cs*",
+              "RelativeToolTip": "MultiCastDelegate.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:04:28.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericDelegates.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\GenericDelegates.cs",
+              "RelativeDocumentMoniker": "GenericDelegates.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\GenericDelegates.cs",
+              "RelativeToolTip": "GenericDelegates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:26:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myStringBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\myStringBuilder.cs",
+              "RelativeDocumentMoniker": "myStringBuilder.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\myStringBuilder.cs",
+              "RelativeToolTip": "myStringBuilder.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:49:58.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyFileinfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\MyFileinfo.cs",
+              "RelativeDocumentMoniker": "MyFileinfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\MyFileinfo.cs",
+              "RelativeToolTip": "MyFileinfo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:46:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Binaryfile.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\Binaryfile.cs",
+              "RelativeDocumentMoniker": "Binaryfile.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\Binaryfile.cs",
+              "RelativeToolTip": "Binaryfile.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:33:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\FileFunctions.cs",
+              "RelativeDocumentMoniker": "FileFunctions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\FileFunctions.cs",
+              "RelativeToolTip": "FileFunctions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:03.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CFilehandling.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\CFilehandling.cs",
+              "RelativeDocumentMoniker": "CFilehandling.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\CFilehandling.cs",
+              "RelativeToolTip": "CFilehandling.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAjwJUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:53:47.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FileHandling\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:45:58.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|c:\\users\\administrator\\source\\repos\\bykestoresdbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|c:\\users\\administrator\\source\\repos\\bykestoresdbfirst\\services\\bykesotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|solutionrelative:services\\bykesotedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|c:\\users\\administrator\\source\\repos\\bykestoresdbfirst\\models\\bykestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|solutionrelative:models\\bykestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|c:\\users\\administrator\\source\\repos\\bykestoresdbfirst\\bykestoresdbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD3D9F99-7A64-49E0-97FA-D14EDBA5F45E}|BykeStoresDBFirst.csproj|solutionrelative:bykestoresdbfirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BykeSoteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\Services\\BykeSoteDAL.cs",
+              "RelativeDocumentMoniker": "Services\\BykeSoteDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\Services\\BykeSoteDAL.cs",
+              "RelativeToolTip": "Services\\BykeSoteDAL.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:24:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BykeStoresDBFirst",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\BykeStoresDBFirst.csproj",
+              "RelativeDocumentMoniker": "BykeStoresDBFirst.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\BykeStoresDBFirst.csproj",
+              "RelativeToolTip": "BykeStoresDBFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T11:17:19.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BykeStoresContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\Models\\BykeStoresContext.cs",
+              "RelativeDocumentMoniker": "Models\\BykeStoresContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\Models\\BykeStoresContext.cs",
+              "RelativeToolTip": "Models\\BykeStoresContext.cs",
+              "ViewState": "AgIAAIABAAAAAAAAAAAowIcBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:00:46.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\BykeStoresDBFirst\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwFkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T04:43:17.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "AppSettings": {
+    "message": "hello from Config!",
+    "loglevel": "Information"
+  },
+  "CoonectionStrings": {
+    "BykeCon": "EC2AMAZ-EHR6SW;database=BykeStores;Integrated Security=true;trusted_connection=true;Persist Security info=false;Encrypt=false"
+  }
+}

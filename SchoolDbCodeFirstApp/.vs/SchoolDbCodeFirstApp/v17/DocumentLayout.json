@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|c:\\users\\administrator\\source\\repos\\schooldbcodefirstapp\\services\\schooldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|solutionrelative:services\\schooldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|c:\\users\\administrator\\source\\repos\\schooldbcodefirstapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|c:\\users\\administrator\\source\\repos\\schooldbcodefirstapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|c:\\users\\administrator\\source\\repos\\schooldbcodefirstapp\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|solutionrelative:models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|c:\\users\\administrator\\source\\repos\\schooldbcodefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|c:\\users\\administrator\\source\\repos\\schooldbcodefirstapp\\schooldbcodefirstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3CBEE29-9C0E-4C52-9A56-F984AC607F24}|SchoolDBCodeFirstApp.csproj|solutionrelative:schooldbcodefirstapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Models\\DTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Models\\DTO.cs",
+              "RelativeToolTip": "Models\\DTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:27:43.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Services\\SchoolDAL.cs",
+              "RelativeDocumentMoniker": "Services\\SchoolDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Services\\SchoolDAL.cs",
+              "RelativeToolTip": "Services\\SchoolDAL.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAqwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:35:56.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:06:30.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAALMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:03:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:09:04.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolDBCodeFirstApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\SchoolDBCodeFirstApp.csproj",
+              "RelativeDocumentMoniker": "SchoolDBCodeFirstApp.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SchoolDbCodeFirstApp\\SchoolDBCodeFirstApp.csproj",
+              "RelativeToolTip": "SchoolDBCodeFirstApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T08:36:26.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+
+  "exclude": [
+
+    "**/bin",
+
+    "**/bower_components",
+
+    "**/jspm_packages",
+
+    "**/node_modules",
+
+    "**/obj",
+
+    "**/platforms"
+
+  ],
+
+  "ConnectionString": {
+
+    "SchoolCon": "server=EC2AMAZ-EHR6SVV; Database=SchoolDb;Integrated Security=True;Trusted Connection=True;TrustServerCertificate=True;"
+
+  }
+
+}
+
+

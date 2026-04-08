@@ -1,0 +1,11 @@
+<p>name-editor works!</p>
+<label for="name">First Name</label>
+<input id="name" type="text" [formControl]="myname">
+<br>
+<label for="name">Last Name</label>
+<input id="name" type="text" [formControl]="mylastname">
+<br>
+
+
+<p>Value: {{ myname.value}} -- {{mylastname.value}}</p>
+<button type="button" (click)="updateName()">UpdateName</button>

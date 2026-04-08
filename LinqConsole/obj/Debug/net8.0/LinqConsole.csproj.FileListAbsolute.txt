@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\LinqConsole\obj\Debug\net8.0\LinqConsole.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LinqConsole\obj\Debug\net8.0\LinqConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LinqConsole\obj\Debug\net8.0\LinqConsole.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LinqConsole\obj\Debug\net8.0\LinqConsole.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LinqConsole\obj\Debug\net8.0\LinqConsole.csproj.CoreCompileInputs.cache

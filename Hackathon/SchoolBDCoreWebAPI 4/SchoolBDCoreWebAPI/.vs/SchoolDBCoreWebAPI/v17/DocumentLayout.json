@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\migrations\\20260403100629_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:migrations\\20260403100629_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\hackathon\\schoolbdcorewebapi 4\\schoolbdcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11084508-F890-4BF2-A6DE-7DD468A03900}|SchoolDBCoreWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260403100629_InitialSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Migrations\\20260403100629_InitialSetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260403100629_InitialSetup.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Migrations\\20260403100629_InitialSetup.cs",
+              "RelativeToolTip": "Migrations\\20260403100629_InitialSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:06:30.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T09:55:55.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\Hackathon\\SchoolBDCoreWebAPI 4\\SchoolBDCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T09:55:21.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
