@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\bridge\\iledtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:bridge\\iledtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\bridge\\abstractremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:bridge\\abstractremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\bridge\\samsungremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:bridge\\samsungremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\bridge\\sonyledtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:bridge\\sonyledtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\bridge\\samsungledtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:bridge\\samsungledtv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\bridge\\sonyremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:bridge\\sonyremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\designpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:designpatterns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\builder\\icarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:builder\\icarbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\designpatterns\\builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7113157A-B3FB-4A11-AD36-B599694E8254}|DesignPatterns.csproj|solutionrelative:builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:39:24.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractRemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\AbstractRemoteControl.cs",
+              "RelativeDocumentMoniker": "Bridge\\AbstractRemoteControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\AbstractRemoteControl.cs",
+              "RelativeToolTip": "Bridge\\AbstractRemoteControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:58:12.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\IObserver.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\IObserver.cs",
+              "RelativeToolTip": "Observer\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:43:44.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\ISubject.cs",
+              "RelativeDocumentMoniker": "Observer\\ISubject.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\ISubject.cs",
+              "RelativeToolTip": "Observer\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:43:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\Observer.cs",
+              "RelativeDocumentMoniker": "Observer\\Observer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\Observer.cs",
+              "RelativeToolTip": "Observer\\Observer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:01:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\Subject.cs",
+              "RelativeDocumentMoniker": "Observer\\Subject.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Observer\\Subject.cs",
+              "RelativeToolTip": "Observer\\Subject.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T09:47:02.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILEDTV.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\ILEDTV.cs",
+              "RelativeDocumentMoniker": "Bridge\\ILEDTV.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\ILEDTV.cs",
+              "RelativeToolTip": "Bridge\\ILEDTV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:47:27.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SamsungRemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SamsungRemoteControl.cs",
+              "RelativeDocumentMoniker": "Bridge\\SamsungRemoteControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SamsungRemoteControl.cs",
+              "RelativeToolTip": "Bridge\\SamsungRemoteControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:05:44.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SonyLedTv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SonyLedTv.cs",
+              "RelativeDocumentMoniker": "Bridge\\SonyLedTv.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SonyLedTv.cs",
+              "RelativeToolTip": "Bridge\\SonyLedTv.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:56:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SamsungLedTv.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SamsungLedTv.cs",
+              "RelativeDocumentMoniker": "Bridge\\SamsungLedTv.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SamsungLedTv.cs",
+              "RelativeToolTip": "Bridge\\SamsungLedTv.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:53:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SonyRemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SonyRemoteControl.cs",
+              "RelativeDocumentMoniker": "Bridge\\SonyRemoteControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\Bridge\\SonyRemoteControl.cs",
+              "RelativeToolTip": "Bridge\\SonyRemoteControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:01:00.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DesignPatterns.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\DesignPatterns.csproj",
+              "RelativeDocumentMoniker": "DesignPatterns.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\DesignPatterns.csproj",
+              "RelativeToolTip": "DesignPatterns.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-10T09:42:04.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\builder\\Car.cs",
+              "RelativeDocumentMoniker": "builder\\Car.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\builder\\Car.cs",
+              "RelativeToolTip": "builder\\Car.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:49:17.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\builder\\ICarBuilder.cs",
+              "RelativeDocumentMoniker": "builder\\ICarBuilder.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\builder\\ICarBuilder.cs",
+              "RelativeToolTip": "builder\\ICarBuilder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:47:55.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\builder\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "builder\\CarBuilder.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\DesignPatterns\\builder\\CarBuilder.cs",
+              "RelativeToolTip": "builder\\CarBuilder.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:55:03.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\identityauthenticationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:identityauthenticationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\models\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:models\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\models\\registrationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:models\\registrationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\models\\applicatiodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:models\\applicatiodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\identityauthenticationwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:identityauthenticationwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\identityauthenticationwebapi\\migrations\\20260330103248_initialsetupv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B78CDF-A958-4C9A-B96A-E4ED06711888}|IdentityAuthenticationWebAPI.csproj|solutionrelative:migrations\\20260330103248_initialsetupv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\log4net.config",
+              "RelativeDocumentMoniker": "log4net.config",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\log4net.config",
+              "RelativeToolTip": "log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-31T10:37:26.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Controllers\\PlantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlantController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Controllers\\PlantController.cs",
+              "RelativeToolTip": "Controllers\\PlantController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:54:29.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:48:30.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAUwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:01:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityAuthenticationWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\IdentityAuthenticationWebAPI.csproj",
+              "RelativeDocumentMoniker": "IdentityAuthenticationWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\IdentityAuthenticationWebAPI.csproj",
+              "RelativeToolTip": "IdentityAuthenticationWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T09:59:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:23:53.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T09:51:02.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T09:52:23.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:25:58.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationModels.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\RegistrationModels.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationModels.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\RegistrationModels.cs",
+              "RelativeToolTip": "Models\\RegistrationModels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:40:57.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Plants.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\Plants.cs",
+              "RelativeDocumentMoniker": "Models\\Plants.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\Plants.cs",
+              "RelativeToolTip": "Models\\Plants.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:40:15.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:56:14.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:40:04.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicatioDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\ApplicatioDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicatioDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\ApplicatioDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicatioDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:58:33.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IdentityAuthenticationWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\IdentityAuthenticationWebAPI.http",
+              "RelativeDocumentMoniker": "IdentityAuthenticationWebAPI.http",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\IdentityAuthenticationWebAPI.http",
+              "RelativeToolTip": "IdentityAuthenticationWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-30T11:34:46.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260330103248_InitialSetupV1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Migrations\\20260330103248_InitialSetupV1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260330103248_InitialSetupV1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Migrations\\20260330103248_InitialSetupV1.cs",
+              "RelativeToolTip": "Migrations\\20260330103248_InitialSetupV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:32:49.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:23:14.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginModels.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\LoginModels.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModels.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\LoginModels.cs",
+              "RelativeToolTip": "Models\\LoginModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:40:42.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Models\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\IdentityAuthenticationWebAPI\\Models\\UserRoles.cs",
+              "RelativeToolTip": "Models\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:12:47.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

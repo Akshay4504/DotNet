@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\schooldbcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\schooldbcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\schooldbcorewebapi\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\schooldbcorewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4A62B6E-7E4F-43FE-8129-A80CAF8AF161}|SchoolDBCoreWebAPI.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\schooldbcorewebapi\\models\\basicauthenticationheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,16 +78,16 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T04:56:11.899Z",
@@ -95,19 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SchoolDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\models\\SchoolDBContext.cs",
-              "RelativeDocumentMoniker": "models\\SchoolDBContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\models\\SchoolDBContext.cs",
-              "RelativeToolTip": "models\\SchoolDBContext.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T06:22:45.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SchoolDAL.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\Services\\SchoolDAL.cs",
               "RelativeDocumentMoniker": "Services\\SchoolDAL.cs",
@@ -119,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\models\\User.cs",
               "RelativeDocumentMoniker": "models\\User.cs",
@@ -131,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SchoolDBCoreWebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\SchoolDBCoreWebAPI.csproj",
               "RelativeDocumentMoniker": "SchoolDBCoreWebAPI.csproj",
@@ -143,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -155,15 +143,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T06:40:12.044Z"
+              "WhenOpened": "2026-03-27T06:40:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\models\\SchoolDBContext.cs",
+              "RelativeDocumentMoniker": "models\\SchoolDBContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\SchoolDBCoreWebAPI\\models\\SchoolDBContext.cs",
+              "RelativeToolTip": "models\\SchoolDBContext.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:22:45.892Z"
             },
             {
               "$type": "Document",

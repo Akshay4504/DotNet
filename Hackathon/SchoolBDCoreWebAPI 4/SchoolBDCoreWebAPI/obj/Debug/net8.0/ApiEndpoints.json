@@ -1,8 +1,40 @@
 [
   {
     "ContainingType": "SchoolDBCoreWebAPI.Controllers.GradeController",
+    "Method": "AddGrade",
+    "RelativePath": "api/Grade/AddGrade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "grade",
+        "Type": "SchoolDBCodeFirstApp.Models.Grade",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolDBCoreWebAPI.Controllers.GradeController",
+    "Method": "DeleteGrade",
+    "RelativePath": "api/Grade/DeleteGrade/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolDBCoreWebAPI.Controllers.GradeController",
     "Method": "GetAllGrades",
-    "RelativePath": "api/Grade",
+    "RelativePath": "api/Grade/GetAllGrades",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +54,7 @@
   {
     "ContainingType": "SchoolDBCoreWebAPI.Controllers.GradeController",
     "Method": "GetGradeById",
-    "RelativePath": "api/Grade/{gradeId}",
+    "RelativePath": "api/Grade/GetGradeById/{gradeId}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -44,6 +76,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "SchoolDBCoreWebAPI.Controllers.GradeController",
+    "Method": "UpdateGrade",
+    "RelativePath": "api/Grade/UpdateGrade",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "grade",
+        "Type": "SchoolDBCodeFirstApp.Models.Grade",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "SchoolDBCoreWebAPI.Controllers.StudentController",

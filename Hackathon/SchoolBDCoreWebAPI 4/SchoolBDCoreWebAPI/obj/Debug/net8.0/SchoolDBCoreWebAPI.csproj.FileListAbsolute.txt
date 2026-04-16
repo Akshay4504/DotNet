@@ -278,3 +278,4 @@ C:\Users\Administrator\Desktop\Akshay-VS\Hackathon\SchoolBDCoreWebAPI 4\SchoolBD
 C:\Users\Administrator\Desktop\Akshay-VS\Hackathon\SchoolBDCoreWebAPI 4\SchoolBDCoreWebAPI\obj\Debug\net8.0\SchoolDBCoreWebAPI.pdb
 C:\Users\Administrator\Desktop\Akshay-VS\Hackathon\SchoolBDCoreWebAPI 4\SchoolBDCoreWebAPI\obj\Debug\net8.0\SchoolDBCoreWebAPI.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Akshay-VS\Hackathon\SchoolBDCoreWebAPI 4\SchoolBDCoreWebAPI\obj\Debug\net8.0\ref\SchoolDBCoreWebAPI.dll
+C:\Users\Administrator\Desktop\Akshay-VS\Hackathon\SchoolBDCoreWebAPI 4\SchoolBDCoreWebAPI\obj\Debug\net8.0\SchoolDBCoreWebAPI.sourcelink.json

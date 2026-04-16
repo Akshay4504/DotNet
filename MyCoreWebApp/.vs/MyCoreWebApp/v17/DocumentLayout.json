@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\grade\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\services\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:services\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\services\\gradedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:services\\gradedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\services\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:services\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\mycorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:mycorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|c:\\users\\administrator\\desktop\\akshay-vs\\mycorewebapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A1D35B4-C31E-4442-8A5E-F2459366C6EF}|MyCoreWebApp.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwB0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T11:47:31.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "Services\\GradeService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\GradeService.cs",
+              "RelativeToolTip": "Services\\GradeService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:00:27.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Grade\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Grade\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Grade\\Create.cshtml",
+              "RelativeToolTip": "Views\\Grade\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T09:53:38.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "Controllers\\GradeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:59:44.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\GradeDAL.cs",
+              "RelativeDocumentMoniker": "Services\\GradeDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\GradeDAL.cs",
+              "RelativeToolTip": "Services\\GradeDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:34:54.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGradeService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\IGradeService.cs",
+              "RelativeDocumentMoniker": "Services\\IGradeService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\IGradeService.cs",
+              "RelativeToolTip": "Services\\IGradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:01:11.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Models\\Grade.cs",
+              "RelativeToolTip": "Models\\Grade.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:29:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:28:45.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "Services\\StudentDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Services\\StudentDAL.cs",
+              "RelativeToolTip": "Services\\StudentDAL.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:33:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T06:31:06.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:46:02.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Grade\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Grade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Grade\\Index.cshtml",
+              "RelativeToolTip": "Views\\Grade\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T09:03:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T10:37:49.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T08:24:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T05:11:29.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:57:59.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T09:19:42.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T07:54:51.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T10:38:34.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T09:15:35.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwBsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T10:45:39.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T09:44:40.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SchoolDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Models\\SchoolDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDBContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Models\\SchoolDBContext.cs",
+              "RelativeToolTip": "Models\\SchoolDBContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T09:36:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T04:44:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T04:38:58.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyCoreWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\MyCoreWebApp.csproj",
+              "RelativeDocumentMoniker": "MyCoreWebApp.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\MyCoreWebApp.csproj",
+              "RelativeToolTip": "MyCoreWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T09:26:24.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Akshay-VS\\MyCoreWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T09:06:16.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -40,3 +40,4 @@ C:\Users\Administrator\Desktop\Akshay-VS\SchoolDBCoreWebAPI\obj\Debug\net8.0\Sch
 C:\Users\Administrator\Desktop\Akshay-VS\SchoolDBCoreWebAPI\obj\Debug\net8.0\SchoolDBCoreWebAPI.dll
 C:\Users\Administrator\Desktop\Akshay-VS\SchoolDBCoreWebAPI\obj\Debug\net8.0\refint\SchoolDBCoreWebAPI.dll
 C:\Users\Administrator\Desktop\Akshay-VS\SchoolDBCoreWebAPI\obj\Debug\net8.0\SchoolDBCoreWebAPI.pdb
+C:\Users\Administrator\Desktop\Akshay-VS\SchoolDBCoreWebAPI\obj\Debug\net8.0\SchoolDBCoreWebAPI.sourcelink.json

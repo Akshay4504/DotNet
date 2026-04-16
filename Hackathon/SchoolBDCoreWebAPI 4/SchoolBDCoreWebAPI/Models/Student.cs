@@ -17,7 +17,7 @@ namespace SchoolDBCodeFirstApp.Models
 
         //these two below make the foriengn key 
         public int GradeId { get; set; }
-        public virtual Grade grade { get; set; }
+        public virtual Grade? grade { get; set; }
 
     }
 }

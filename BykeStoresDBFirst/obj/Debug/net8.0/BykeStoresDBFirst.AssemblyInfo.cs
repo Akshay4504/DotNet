@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BykeStoresDBFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4af2eee9a82827958a4b7927e8026e9169fb6c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BykeStoresDBFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BykeStoresDBFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
