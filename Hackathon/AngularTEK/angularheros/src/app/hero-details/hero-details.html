@@ -1,0 +1,11 @@
+<p>hero-details works!</p>
+
+@if (myHero) {
+  <h3>Hero Details</h3>
+  <div>
+    <div><span>id: </span>{{ myHero.id }}</div>
+    <div><span>name: </span>{{ myHero.name}}</div>
+  </div>
+} @else {
+  <p>No Hero Selected, Pls select a Hero</p>
+}

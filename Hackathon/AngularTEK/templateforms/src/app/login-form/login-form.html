@@ -1,0 +1,40 @@
+<h2>Login</h2>      
+<div *ngIf="loggedIn">
+  logged in Successfully 
+</div>
+
+<form [formGroup]="loginForm"(ngSubmit)="onSubmit()">
+@if (!loggedIn) {
+  <label>User Name:</label>
+  <input type="text" formControlName="username">
+  
+  <div *ngIf="GetUserName()?.invalid && (GetUserName()?.touched || GetUserName()?.dirty)">
+    <div *ngIf="GetUserName()?.errors?.['required']">
+      Username is required
+    </div>
+    <div *ngIf="GetUserName()?.errors?.['minlength']">
+      Username must be at least 10 characters
+    </div>
+  </div>
+
+  <br>
+
+  <label>Password:</label>
+  <input type="password" formControlName="password">
+
+  <div *ngIf="GetPassword()?.invalid && (GetPassword()?.touched || GetPassword()?.dirty)">
+    <div *ngIf="GetPassword()?.errors?.['required']">
+      Password is required
+    </div>
+    <div *ngIf="GetPassword()?.errors?.['minlength']">
+      Password must be at least 8 characters
+    </div>
+  </div>
+
+  <p>
+    <button type="submit" [disabled]="loginForm.invalid">
+      Login
+    </button>
+  </p>
+}
+</form>

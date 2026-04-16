@@ -1,0 +1,29 @@
+<p>profile-editor works!</p>
+
+<form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+    <label for="firstName">First Name:</label>
+    <input id="firstName" type="text" formControlName="firstName">
+    &nbsp;
+    
+    <label for="lastName">Last Name:</label>
+    <input id="lastName" formControlName="lastName">
+    <br>
+
+    <label for="address">Address:</label>
+    <div formGroupName="address">
+        <input id="street" formControlName="street" placeholder="Street">
+        <input id="city" formControlName="city" placeholder="City">
+        <input id="state" formControlName="state" placeholder="State">
+        <input id="zip" formControlName="zip" placeholder="Zip">
+    </div>
+    <p>Complete the form to enable button</p>
+     
+    <button type="submit" [disabled]="!profileForm.valid">Submit</button>
+    <button type="button" (click)="updateProfile()">Update Profile</button>
+</form>
+
+@if (profileForm.controls.firstName.value) {
+<div >
+    <p>First Name: {{ profileForm.controls.firstName.value }}</p>
+</div>
+}

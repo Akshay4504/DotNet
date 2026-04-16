@@ -1,0 +1,15 @@
+<p>binding works!</p>
+
+
+
+<p [id]="sayHelloId" [style.color]='fontColor'>
+    You can set my color in component!
+</p>
+
+<input type="text" id="name" [(ngModel)]='name' required>
+
+<button type="button" [disabled]='canClick' (click)="sayMessage()">
+    Trigger Alert message
+</button>
+
+<p>{{name}}</p>
